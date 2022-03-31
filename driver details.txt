@@ -1,0 +1,18 @@
+driver details
+
+
+drivers table 
+
+name
+contact
+email,
+address,
+current_location
+vehicle details {
+    registration no,
+    name,
+}
+
+drivers booking history
+
+
