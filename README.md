@@ -3,7 +3,7 @@ ola api
 
 import dump folder 
 import postman collection
-mpm start command to run code
+npm start command to run code
 test api
 
 
